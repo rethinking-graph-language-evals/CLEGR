@@ -3,7 +3,7 @@
 ![clegr_figure](https://github.com/user-attachments/assets/9e081119-36e1-42ea-8e97-414c5ecf98a0)
 
 
-### Official code repository for "A GraphTalks, But Who’s Listening? Rethinking Evaluations for Graph-Language Models"
+### Official code repository for A Graph Talks, But Who’s Listening? Rethinking Evaluations for Graph-Language Models
 
 
 This repository contains the code for CLEGR, a framework for generating graph-based reasoning tasks. It includes scripts for generating graph-based question-answering datasets, pre-training and training GLMs.
