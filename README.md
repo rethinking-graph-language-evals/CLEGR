@@ -10,12 +10,13 @@ This repository contains the code for CLEGR, a framework for generating graph-ba
 
 ### TODO
 - [ ] Add `requirements.txt`
-- [ ] Add CLEGR data for downloads
 
 ## Dataset Generation
 
 The core of this repository is the ability to generate complex graph-language based question answering (GQA) datasets. The generation process is highly customizable.
 Much of the code is taken from the [CLEVR Graph Repo](https://github.com/Octavian-ai/clevr-graph) with much appreciation.
+
+Our generated dataset is available on the following link - [HF CLEGR Dataset](https://huggingface.co/datasets/tenseisoham/CLEGR/tree/main)
 
 ### Generating the CLEGR Dataset
 
