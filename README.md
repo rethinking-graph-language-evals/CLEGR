@@ -8,9 +8,6 @@
 
 This repository contains the code for CLEGR, a framework for generating graph-based reasoning tasks. It includes scripts for generating graph-based question-answering datasets, pre-training and training GLMs.
 
-### TODO
-- [ ] Add `requirements.txt`
-
 ## Dataset Generation
 
 The core of this repository is the ability to generate complex graph-language based question answering (GQA) datasets. The generation process is highly customizable.
