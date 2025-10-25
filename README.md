@@ -1,10 +1,11 @@
 # CLEGR
 
-![clegr_figure](https://github.com/user-attachments/assets/9e081119-36e1-42ea-8e97-414c5ecf98a0)
+![clegr_github](https://github.com/user-attachments/assets/c973467e-b7dd-4579-961c-22b2d4524aa2)
 
 
 ### Official code repository for A Graph Talks, But Who’s Listening? Rethinking Evaluations for Graph-Language Models
 
+> **Accepted at NeurIPS 2025 New Perspectives on Graph Machine Learning (NPGML) Workshop**
 
 This repository contains the code for CLEGR, a framework for generating graph-based reasoning tasks. It includes scripts for generating graph-based question-answering datasets, pre-training and training GLMs.
 
